@@ -1,12 +1,5 @@
-Journal Articles
-================
-
-.. .. autosummary::
-
-.. Add a name label to the papers page 
-.. label: papers-list
-
-    :name: papers-list
+Journal Papers
+==============
 
 2023
 ----

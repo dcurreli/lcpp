@@ -1,7 +1,7 @@
 Welcome to LCPP
 ===============
 
-Pages under construction: list of *research products*, :ref:`papers <papers>` and :ref:`talks <talks>`.
+Pages under construction: list of *research products*
 
 .. note::
 
@@ -11,12 +11,11 @@ Contents
 --------
 
 .. toctree::
-   :numbered:
    :maxdepth: 1
 
-   papers
-   talks
-   research
    software
    training
-   people
+   research
+   papers
+   talks
+   goldrules
