@@ -4,7 +4,7 @@ Journal Papers
 2023
 ----
 
-1. L. Meredith, M. Rezazadeh, H. Fazlul, V. Srinivasaragavan, O. Sanhni, D. Curreli, hPIC2: a hardware-accelerated, hybrid particle-in-cell code for dynamic plasma-material interactions, Computer Physics Communications, Volume 283, 108569, (2023) 
+:cite:t:`MEREDITH2023108569` L. Meredith, M. Rezazadeh, H. Fazlul, V. Srinivasaragavan, O. Sanhni, D. Curreli, hPIC2: a hardware-accelerated, hybrid particle-in-cell code for dynamic plasma-material interactions, Computer Physics Communications, Volume 283, 108569, (2023) 
 `BibTeX <https://doi.org/10.1016/j.cpc.2022.108569>`_
 `DOI <https://doi.org/10.1016/j.cpc.2022.108569>`_
 `PDF <https://doi.org/10.1016/j.cpc.2022.108569>`_
@@ -54,3 +54,5 @@ Journal Papers
 
 27. R. Rizkallah, S. Marcinko, D. Curreli, M.S. Parsons, N. Bartlett, R. Gluck, A. Shone, D. Andruczyk, Mapping of the HIDRA stellarator magnetic flux surfaces, Physics of Plasmas, Vol. 16 Is. 9, 092503 (2019)
 28. M. Elias, D. Curreli, J. Myra, T. Jenkins, J. Wrigth, Numerical Model of the Radio-Frequency Magnetic Presheath Including Wall Impurities, Physics of Plasmas, Vol. 26, 092508 (2019)
+
+.. bibliography::
